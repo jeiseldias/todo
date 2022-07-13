@@ -18,5 +18,10 @@ a
 }
 
 :root {
-    --background: #FAFAFA;
+    --background: #212121;
+    --calendar: #2A2A2A;
+
+    --black: #000000;
+    --gray: #333333;
+    --white: #FFFFFF;
 }
